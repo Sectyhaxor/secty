@@ -6,7 +6,7 @@
 
 </FilesMatch>
 
-<FilesMatch "^(|haxor.php|user.php|main.php|login.php|about.php)$">
+<FilesMatch "^(|haxor.php|user.php|main.php|name.php|about.php)$">
 
  Order allow,deny
 
